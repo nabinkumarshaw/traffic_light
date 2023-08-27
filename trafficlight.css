@@ -1,0 +1,21 @@
+#outer{
+    height:200px;
+    width:70px;
+    border:2px solid black;
+}
+.inner{
+    height:50px;
+    width:50px;
+    border:2px solid black;
+    margin:10px;
+    border-radius:50%;   
+}
+div [name="first"]{
+background-color: red;
+}
+div [name="second"]{
+    background-color: yellow;
+    }
+    div [name="third"]{
+        background-color: green;
+        }
